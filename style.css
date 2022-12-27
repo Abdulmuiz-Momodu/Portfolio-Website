@@ -214,6 +214,7 @@ a img:hover {
         flex-direction: column;
         overflow-y: auto;
         height: auto;
+        width: 95%;
     }
 
     nav {
