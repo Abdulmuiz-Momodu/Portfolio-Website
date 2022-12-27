@@ -265,6 +265,10 @@ a img:hover {
     }
 
     .logos img {
-        width: 35%;
+        width: 32%;
+    }
+
+    main {
+        padding: 2rem;
     }
 }
