@@ -193,7 +193,7 @@ a img:hover {
     font-family: monospace;
 }
 
-@media screen and (max-width: 925px) {
+@media only screen and (max-width: 925px) {
     nav img {
         height: 35%;
     }
@@ -204,7 +204,7 @@ a img:hover {
     }
 }
 
-@media screen and (max-width: 725px) {
+@media only screen and (max-width: 725px) {
     body {
         height: auto;
     }
