@@ -34,7 +34,7 @@ header {
     justify-content: center;
     grid-area: header;
     align-items: center;
-    background-image: url(images/mountains.jpg);
+    background-image: url(/images/mountains.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
